@@ -1,0 +1,5 @@
+.herorigtimg img {
+    max-width: 24em;
+    height: 30em;
+    object-fit: cover;
+}

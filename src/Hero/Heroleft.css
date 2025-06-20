@@ -1,0 +1,55 @@
+.heroleft p{
+ font-size:15px ;
+ font-weight: 400;
+ line-height:23px ;
+ max-width: 350px ;
+  margin-bottom: 30px;
+}
+
+.heroleft button {
+    background-color: black;
+    color: white;
+}
+
+
+
+.heroleft button:hover {
+background-color: white;
+color: black;
+
+}
+
+h1 {
+     font-size:64px ;
+ font-weight: 700;
+ line-height:60px ;
+ max-width: 390px;
+ margin-bottom: 30px;
+}
+
+.heroleftimg {
+ display: flex;
+ gap: 8px;
+ max-width: 100px;
+ height: 25px;
+ padding-top: 60px;
+  align-items: end;
+}
+
+
+.heroleftimg img:first-child {
+ /* max-width: 40px; */
+ height: 12px;
+
+}
+.heroleftimg img:first-child {
+ height: 14px;
+}
+
+.heroleftimg img:nth-child(3){
+ height: 15px;
+}
+
+
+
+
